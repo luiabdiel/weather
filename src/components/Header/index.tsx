@@ -9,8 +9,6 @@ export function Header() {
 
   function toggleConversion() {
     setIsCelsius(!isCelsius);
-
-    console.log('Alternou');
   }
 
   return (
