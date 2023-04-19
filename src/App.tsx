@@ -1,4 +1,4 @@
-import { Header } from './components';
+import { Header, Weather } from './components';
 
 import { GlobalStyles } from './styles/GlobalStyles';
 
@@ -7,6 +7,7 @@ export function App() {
     <>
       <GlobalStyles />
       <Header />
+      <Weather />
     </>
   );
 }
