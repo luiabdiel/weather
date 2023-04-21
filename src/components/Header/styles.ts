@@ -63,6 +63,6 @@ export const ConvertButton = styled.button`
   width: 10.625rem;
   height: 2.5rem;
 
-  font-weight: 300;
+  font-weight: 400;
 `;
 
